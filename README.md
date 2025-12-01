@@ -21,13 +21,6 @@ Reusable Components: Modular structure for easy updates and addition of new quiz
 
 📸 Screenshots
 
-(Optional — you can add images later)
-
-/assets/screenshots/
-    home.png
-    quiz.png
-    results.png
-    analysis.png
 @ Home Page
 <img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/23f31e9e-8203-435c-85d6-78ff9b391d5f" />
 @ Quiz Dashboard
